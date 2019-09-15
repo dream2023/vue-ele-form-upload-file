@@ -1,7 +1,7 @@
 {
   "name": "vue-ele-form-upload-file",
   "description": "vue-ele-form 的文件上传组件",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
