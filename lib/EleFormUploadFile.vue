@@ -15,7 +15,7 @@ import formMixin from 'vue-ele-form/lib/mixins/formMixin'
 import uploadMixin from 'vue-ele-form/lib/mixins/uploadMixin'
 
 export default {
-  name: 'EleFormFile',
+  name: 'EleFormUploadFile',
   mixins: [ formMixin, uploadMixin ],
   components: {
     EleUploadFile
