@@ -30,7 +30,6 @@ export default {
             responseFn (response, file) {
               return {
                 name: file.name,
-                // url: 'https://fuss10.elemecdn.com/3/63/4e7f3a15429bfda99bce42a18cdd1jpeg.jpeg',
                 url: URL.createObjectURL(file.raw),
                 size: file.size
               }
