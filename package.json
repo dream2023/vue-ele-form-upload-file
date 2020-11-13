@@ -1,14 +1,14 @@
 {
   "name": "vue-ele-form-upload-file",
   "description": "vue-ele-form 的文件上传组件",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vue-ele-upload-file": "^0.0.6"
+    "vue-ele-upload-file": "^0.0.7"
   },
   "repository": {
     "type": "git",

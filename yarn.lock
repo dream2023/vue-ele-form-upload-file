@@ -8506,10 +8506,10 @@ vue-ele-gallery@^2.1.3:
   resolved "https://registry.npmjs.org/vue-ele-gallery/-/vue-ele-gallery-2.1.6.tgz#ce62c752b183dd56a0c6e5bedd7ff67d42fd941f"
   integrity sha512-Yad9d8HuSbS0jKkfVgWfYeVwXOKEjzumGvOFjvl7bkD2wM3VQpHi1iv5x8T2RBWBZL9U+M5aVnaQdxZHFHtXsg==
 
-vue-ele-upload-file@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.npmjs.org/vue-ele-upload-file/-/vue-ele-upload-file-0.0.6.tgz#b9f09a2de4cd5437e77efc2e5ea5040e72f2dcd5"
-  integrity sha512-5ZC3e4ogm+XGMwC1RAvu+3DFlCwA8j9NOvMpYDSWw1Iv0e2NPgZkGX5wKW7f2J3utKhvQWdvKdJfhuG8IbFVBw==
+vue-ele-upload-file@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/vue-ele-upload-file/-/vue-ele-upload-file-0.0.7.tgz#cf647c43fa5c95f65adf97e2a0415a4459cb1e83"
+  integrity sha512-EENcnaQTgZxW5yDaPan33MuE3sr18lRzNBrpebqQeMzVfxbH67+rKxucoytAJxWdRfVE3WWsTjBgffdeYKv+VA==
   dependencies:
     ly-downloader "^1.0.5"
     pretty-bytes "^5.3.0"
