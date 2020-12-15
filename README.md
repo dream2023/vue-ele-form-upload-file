@@ -50,7 +50,7 @@ formDesc: {
       action: 'https://jsonplaceholder.typicode.com/posts',
       isCanDelete: false,
       // 上传后对响应处理, 拼接为一个URL地址
-      handleResponse(response, file) {
+      responseFn(response, file) {
         // 根据响应结果, 设置 URL
         return {
           name: file.name,
